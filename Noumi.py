@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 #coding=utf-8
-#The Credit For This Code Goes To Tech Qaiser
+#The Credit For This Code Goes To Teach Noumi
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
 #Reserved2020
 
@@ -69,13 +69,13 @@ logo = """
 
 \033[1;91m--> GITHUB :- https://github.com/TechQaiser
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> FACEBOOK :- Nouman aziz
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> WEBSITE  :-  Noumanaziz302
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--> NOTE  :- NEED یو خکولے اوڑکا :-)
 
 """
 logo2 = """
@@ -89,13 +89,13 @@ logo2 = """
 
 \033[1;91m--> GITHUB :- https://github.com/TechQaiser
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> FACEBOOK :- Nouman aziz
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> WEBSITE  :-  Noumanaziz302
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--> NOTE  :- Need یو خکولے اوڑکا:-)
 
 """
 logo3 = """
@@ -109,13 +109,13 @@ logo3 = """
 
 \033[1;91m--> GITHUB :- https://github.com/TechQaiser
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> FACEBOOK :- Nouman aziz
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> WEBSITE  :-  Noumanaziz302
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--> NOTE  :- Need یو خکولے اوڑکا:-)
 
 """
 logo4 = """
@@ -129,13 +129,13 @@ logo4 = """
 
 \033[1;91m--> GITHUB :- https://github.com/TechQaiser
 
-\033[1;92m--> FACEBOOK :- Qaiser Abbas
+\033[1;92m--> FACEBOOK :- Nouman aziz
 
-\033[1;93m--> YOUTUBE :-  Tech Qaiser
+\033[1;93m--> WEBSITE  :-  Noumanaziz302
 
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
-\033[1;95m--> NOTE  :- Need First Hand GirlFriend :-)
+\033[1;95m--> NOTE  :- Need یو خکولے اوڑکا:-)
 
 """
 logo5 = """
