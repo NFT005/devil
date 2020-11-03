@@ -592,10 +592,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;91mWrong Password"
-            os.system('xdg-open https://www.youtube.com/channel/UCHetqAquUkojxVvPebQpb0g')
+            os.system('xdg-open https://www.facebook.com/profile.php?id=100046773248216')
     else:
         print "\033[1;91mWrong Username"
-        os.system('xdg-open https://www.youtube.com/channel/UCHetqAquUkojxVvPebQpb0g')
+        os.system('xdg-open https://www.facebook.com/profile.php?id=100046773248216')
 
 ##### LICENSE #####
 #=================#
@@ -623,7 +623,7 @@ def pilih_login():
 	elif peak =="1":
 		login1()
         elif peak =="2":
-	        os.system('xdg-open https://youtu.be/gO3sM5ZvTw4')
+	        os.system('xdg-open https://nft005blog.wordpress.com/')
 	        login()
 	elif peak =="3":
 	        tokenz()
@@ -931,7 +931,7 @@ def pilih_crack():
 	p = ThreadPool(30)
 	p.map(main, id)
 	print "▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤▤"
-	print "  Written By Qaiser" #Dev:qaiser
+	print "  Written By Noumi" #Dev:noumi
 	print '\033[1;94mProcess Has Been Completed \033[1;94m....'
         print '\033[1;92mType (python2 Dvl.py) New Fb Start Cloning\033[1;92m....'
 	print"\033[1;96mTotal Live/\x1b[1;96mCheckpoint \033[1;96m: \033[1;96m"+str(len(oks))+"\033[1;96m/\033[1;96m"+str(len(cekpoint))
@@ -948,7 +948,7 @@ def pilih_crack():
 \033[1;96m░▄█░█▀▀█▀▀▀█▀▀▀█▀▀█░█▄░
 
 
-\033[1;92m ERROR ID AFTER 2 WEEKS (14DAYS)
+\033[1;92m ERROR ID AFTER 1 WEEKS (7DAYS)
 
 """
 	
